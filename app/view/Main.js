@@ -23,7 +23,7 @@ Ext.define('MyApp.view.Main', {
                 },
 
                 html: [
-                    "Jo, habe hier gerade was geändert!!"
+                    "Jo, habe hier gerade was geändert!!!"
 					
                 ].join("")
             },
